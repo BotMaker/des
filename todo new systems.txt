@@ -1,0 +1,14 @@
+befor i can do a complete rewrite of the digital
+electronic simulator will need the following systems
+ready and tested
+
+zoom and rotate
+replace sprites with drawing routines
+wireing system to be replace
+selecting of objects to be done and add a indiceater
+mdi interface of sorts could be mdi or tab pages
+
+maybe black boxing
+black boxing is a tearm used to describe a system
+where you can construted addtion components from exsisting
+components and then pakage them into a ic
